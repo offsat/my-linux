@@ -1,0 +1,2 @@
+# my-linux
+my/kali
